@@ -1,0 +1,31 @@
+body {
+    background-color: #F5F5F5;
+}
+table {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ol {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr {
+    border-color: #30475E;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    height: 0px;
+    width: 10%;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F05454
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F05454
+}
